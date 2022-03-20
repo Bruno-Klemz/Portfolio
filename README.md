@@ -99,13 +99,13 @@ Technologies and Tools used in this project:
 <summary>See more about Instagram Clone</summary>
 
 <br/>
-SmartCharger is an app focused on charging and monitoring Renault electric cars. The intention is to use the Google Maps API to find charging stations near your location and record all user recharges over time in Firebase.
+Instagram clone is an app focused on my personal development in creating screens from a third-party prototype. In it, I used Columns and Rows to align vertically and horizontally, as well as ListView and GridView to arrange the information in Stories and Gallery format, as specified in the source prototype. To record the information, I used Firebase Storage as a database for this app, given its ease of working with images. Because of this, I consumed the Firebase Storage API focusing on GET in the url's of each image
+
   
 Technologies and Tools used in this project:
 
-  - 🖥️ Firebase Auth 
+  - 🖥️ Firebase Storage 
   - 📝 BLoC Pattern
-  - 💻 HTTP Request to CRUD
   - ↕️ Auto Layout (Columns and Rows)
   - 🖼️ Grid View/List View 
 </details>
