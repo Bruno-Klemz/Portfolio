@@ -64,7 +64,13 @@ I am currently looking to improve:
 <br/>
   
 ### SmartCharger
-![SmartCharger](https://github.com/Bruno-Klemz/Portfolio/blob/master/Smartcharger.JPG)  
+
+<p align="left">
+<img src="https://github.com/Bruno-Klemz/Portfolio/blob/master/Smartcharger.JPG" 
+     width="298" 
+     height="621" />
+</p>
+
   
 <details>
   
@@ -78,8 +84,11 @@ Technologies and Tools used in this project:
   - 🖥️ Firebase Auth and Google Maps API's
   - 📝 BLoC Pattern
   - 💻 HTTP Request to CRUD
+  - 🗒️ Versioning in git
   - ↕️ Auto Layout (Columns and Rows)
   - 🖼️ Grid
+     
+
 </details>    
 </details> 
 
@@ -90,6 +99,7 @@ Technologies and Tools used in this project:
 <br/>
   
 ### Instagram Clone
+
 <img src="https://github.com/Bruno-Klemz/Portfolio/blob/master/InstagramClone.jpg" 
      width="400" 
      height="844.44" />
@@ -106,7 +116,7 @@ Technologies and Tools used in this project:
 
   - 🖥️ Firebase Storage 
   - 📝 BLoC Pattern
+  - 🗒️ Versioning in git
   - ↕️ Auto Layout (Columns and Rows)
   - 🖼️ Grid View/List View 
 </details>
-
