@@ -52,7 +52,7 @@ I am currently looking to improve:
 
 ### Education
 >### Control and Automation Engineering
->#### FEB 2016 - JUL 2023 | PUCPR Curitiba, Brazil
+>#### FEB 2017 - JUL 2023 | PUCPR Curitiba, Brazil
 >My focus in control and automation engineering has always been the scope of software development, here I mainly learned about some software engineering principles, imperative and object-oriented programming, data structure, SQL databases and distributed systems (besides of course a lot engineering calculation).
 
 </details>
@@ -125,4 +125,36 @@ Technologies and Tools used in this project:
   - 🗒️ Versioning in git
   - ↕️ Auto Layout (Columns and Rows)
   - 🖼️ Grid View/List View 
+</details>
+     
+### Floor Calculator
+<p align="center">
+<img src="https://github.com/Bruno-Klemz/Floor-calculator/blob/develop/apresentation_assets/apresentationPagStartVideo1GIF.gif" 
+     width="250" 
+     height="527.778" >  <img src="https://github.com/Bruno-Klemz/Floor-calculator/blob/develop/apresentation_assets/apresentationPagStartVideo2GIF.gif" 
+     width="250" 
+     height="527.778" />
+  </p>
+
+<details>
+  
+<summary>See more about Floor Calculator</summary>
+     
+### Resume
+The project was requested by PagStar, a company focused on digital wallets. In this project, the main concept delivered was the calculation method for the amount of material needed for a civil plant. For the design, the concept was left open, keeping in mind the beauty of the final product. As requirements for the project were listed:
+  - MobX as state management
+  - Modular to dependency injection and route system
+  - Handle exceptions
+  - Great design
+ 
+### Personal development
+In this project, not having a pre-established design, made me develop myself in the screen prototype process, with great learning in UI/UX concepts such as:
+  - 60-30-10 rule
+  - Error messages for user feedback
+  - Build a model from the brand's visual identity
+     
+In addition, I was able to put into practice the MobX concepts for state management, where the most relevant points were:
+  - Observables variables, actions functions and observer builder
+  - Auto generated codes
+
 </details>
