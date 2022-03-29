@@ -100,9 +100,15 @@ Technologies and Tools used in this project:
   
 ### Instagram Clone
 
-<img src="https://github.com/Bruno-Klemz/Portfolio/blob/master/InstagramClone.jpg" 
-     width="400" 
-     height="844.44" />
+<p align="center">
+<img src="https://github.com/Bruno-Klemz/Instagram-Clone/blob/develop/LoginGif.gif" 
+     width="250" 
+     height="527.778" > <img src="https://github.com/Bruno-Klemz/Instagram-Clone/blob/develop/Feed.gif" 
+     width="250" 
+     height="527.778" > <img src="https://github.com/Bruno-Klemz/Instagram-Clone/blob/develop/Perfil.gif" 
+     width="250" 
+     height="527.778" />
+  </p>
   
 <details>
   
