@@ -113,6 +113,9 @@ Technologies and Tools used in this project:
 <details>
   
 <summary>See more about Instagram Clone</summary>
+<br/>
+     
+[GitHub](https://github.com/Bruno-Klemz/Instagram-Clone)
 
 <br/>
 Instagram clone is an app focused on my personal development in creating screens from a third-party prototype. In it, I used Columns and Rows to align vertically and horizontally, as well as ListView and GridView to arrange the information in Stories and Gallery format, as specified in the source prototype. To record the information, I used Firebase Storage as a database for this app, given its ease of working with images. Because of this, I consumed the Firebase Storage API focusing on GET in the url's of each image
@@ -139,6 +142,11 @@ Technologies and Tools used in this project:
 <details>
   
 <summary>See more about Floor Calculator</summary>
+<br/>
+     
+[GitHub](https://github.com/Bruno-Klemz/Floor-calculator)
+
+<br/>
      
 ### Resume
 The project was requested by PagStar, a company focused on digital wallets. In this project, the main concept delivered was the calculation method for the amount of material needed for a civil plant. For the design, the concept was left open, keeping in mind the beauty of the final product. As requirements for the project were listed:
