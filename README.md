@@ -21,22 +21,6 @@ Hi, my name is Bruno, but feel free to call me Klemz. I'm a flexible person, alw
 
 My main focus is mobile development using the cross-platform Flutter framework, building apps for both Android and iOS. I'm currently aiming to become a tech lead in the near future, so I'm constantly improving my skills, especially with the Dart + Flutter stack. I'm also learning Golang to deepen my understanding of the entire mobile app development lifecycle.
 
-I'm currently working at a startup building an app for music lovers, which already has around 800,000 registered users. This app allows users to collaborate remotely to create new hits, and fosters communities and social connections. In this project, I work daily with:
-
-🏠 **Clean Architecture**  
-I contribute across the entire architecture: from the presentation layer (UI) through BLoC (business logic) and down to data request layers like use cases and repositories. I use models for parsing and entities as domain-level objects.
-
-💭 **API Integration**  
-I consume two APIs built with Golang — one for listing user chats and another for all general requests.
-
-📱 **UI Development**  
-I implement complex user interfaces based on detailed product/design specifications from Figma.
-
-🔨 **Unit Testing**  
-For every feature, I write unit tests covering all layers mentioned above, including the layout.
-
-If you find my profile interesting, feel free to reach out and start a conversation!
-
 ### Experience
   
 >### 🧑‍💻 Flutter Developer at Indaband
