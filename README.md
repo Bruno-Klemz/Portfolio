@@ -131,14 +131,12 @@ My main focus is mobile development using the cross-platform Flutter framework, 
      
 ### 🏋️‍♂️ Fit Track - Gym training companion ([GitHub](https://github.com/Bruno-Klemz/FitTrack))
 <p align="center">
-<img src="https://github.com/Bruno-Klemz/Floor-calculator/blob/develop/apresentation_assets/apresentationPagStartVideo1GIF.gif" 
+<img src="https://github.com/user-attachments/assets/7ad07c0c-5e59-4e72-b75d-39f46534a5fb" 
      width="250" 
-     height="527.778" >  <img src="https://github.com/Bruno-Klemz/Floor-calculator/blob/develop/apresentation_assets/apresentationPagStartVideo2GIF.gif" 
-     width="250" 
-     height="527.778" />
+     height="527.778" >
   </p>
 <br/>
-     
+
 ### Resume
 
 **Fit Track** is a Flutter-based mobile application designed to assist users in organizing their workout and diet routines. The app delivers personalized training recommendations by integrating with the **Wger API**, providing relevant exercises based on user preferences such as time availability, difficulty level, and fitness goals.
