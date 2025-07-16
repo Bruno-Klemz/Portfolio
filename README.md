@@ -1,13 +1,5 @@
 # Hello there, I'm Klemz and this is my personal portfolio
 
-
-
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/be250f6b-3ffe-442c-b44c-c7642222f861" 
-      />
-</p>
-
 <h6 align="center"> 📝pro.brunoklemz@gmail.com | 📞+55 (41) 997845842 | 🖥️ https://github.com/Bruno-Klemz | 🔗 https://www.linkedin.com/in/bruno-klemz-24049a182/
   
 ## 📄 Curriculum
