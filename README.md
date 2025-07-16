@@ -1,4 +1,4 @@
-# 🧑‍💻 Flutter Developer Portfolio – Bruno "Klemz" Klemz
+# 🧑‍💻 Flutter Developer Portfolio – Bruno Klemz
 
 📬 **Contato:**  
 - 📧 Email: klemz.bruno@gmail.com  
