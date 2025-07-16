@@ -18,7 +18,8 @@ Busco me tornar tech lead e estou constantemente aprimorando minhas habilidades 
 
 ## 📄 Currículo
 
-Você pode baixar meu currículo [clicando aqui](#) 
+Você pode baixar meu currículo [clicando aqui](https://github.com/user-attachments/files/21261167/Bruno_Klemz_Flutter_Developer.pdf) 
+
 
 ---
 
