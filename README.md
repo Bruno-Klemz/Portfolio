@@ -128,34 +128,4 @@ Foco em fundamentos de desenvolvimento de software:
 
 ---
 
-## 🧔 Projeto Pessoal: Fit Track – Gym Training Companion
-
-[🔗 Repositório GitHub](https://github.com/Bruno-Klemz/FitTrack)
-
-### 📱 Sobre o App
-Aplicativo Flutter para organizar treinos e dieta com integração à **Wger API**.
-
-### 🔍 Funcionalidades
-- **Planos de treino personalizados** com filtros
-- **Cache offline** com Hive
-- **Fluxo diário de treino** com UI responsiva
-- **Interface moderna** com animações e tags
-- **Suporte a internacionalização**
-
-### 🧰 Stack
-- Flutter + Dart
-- Hive
-- Dio (HTTP)
-- BLoC + Clean Architecture
-- Wger API
-- Injeção de dependência
-
-### 🚀 Aprendizados
-- Consolidação de Clean Architecture e BLoC
-- Integração dinâmica com APIs RESTful
-- Modularização e boas práticas de UI/UX
-- Projeto completo feito 100% de forma autônoma
-
----
-
 > Obrigado por visitar meu portfólio! Fique à vontade para entrar em contato ou explorar meus repositórios no GitHub. 🚀
