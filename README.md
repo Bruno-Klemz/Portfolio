@@ -1,171 +1,161 @@
-# Hello there, I'm Klemz and this is my personal portfolio
+# 🧑‍💻 Flutter Developer Portfolio – Bruno "Klemz" Klemz
 
-<h6 align="center"> 📝klemz.bruno@gmail.com | 📞+55 (41) 997845842 | 🖥️ https://github.com/Bruno-Klemz | 🔗 https://www.linkedin.com/in/bruno-klemz-24049a182/
-  
-## 📄 Curriculum
-<details> 
-<summary>See more about my curriculum</summary>
-<br/>  
-  
-### About Me
+📬 **Contato:**  
+- 📧 Email: klemz.bruno@gmail.com  
+- 📞 Telefone: +55 (41) 99784-5842  
+- 🖥️ [GitHub](https://github.com/Bruno-Klemz)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bruno-klemz-24049a182/)
 
-Hi, my name is Bruno, but feel free to call me Klemz. I'm a flexible person, always focused on helping those around me because I truly believe we can grow much more together.
+---
 
-My main focus is mobile development using the cross-platform Flutter framework, building apps for both Android and iOS. I'm currently aiming to become a tech lead in the near future, so I'm constantly improving my skills, especially with the Dart + Flutter stack. I'm also learning Golang to deepen my understanding of the entire mobile app development lifecycle.
+## 👋 Sobre mim
 
-### Experience
-  
->### 🧑‍💻 Flutter Developer at Indaband
->#### OCT 2022 - Present | Remote  
->Currently working at a startup developing an app for music lovers, with over **800k registered users**. The app allows remote collaboration to create music hits and build communities.  
->Daily responsibilities include:
->- Using **Clean Architecture**: From UI (Presenter) and BLoC (business logic) to Use Cases and Repository layers.
->- Using Hive to save infos locally on cache
->- Consuming **REST APIs** developed in Golang for chat and general operations.
->- Building complex UIs based on **Figma** designs.
->- Writing **unit tests** for all logic and UI layers.
->Also contributing ideas and improvements to the overall structure of the app.
+Olá! Sou o Bruno, mas pode me chamar de **Klemz**.  
+Sou desenvolvedor Flutter, apaixonado por criar produtos de alta qualidade com foco em performance, escalabilidade e boas práticas de arquitetura.  
+Busco me tornar tech lead e estou constantemente aprimorando minhas habilidades — inclusive estudando **Go** para entender melhor todo o ciclo de desenvolvimento mobile.
 
->### 🧑‍💻 Flutter Developer at Smart Go WMS (Warehouse Management System)
->#### APR 2022 - OCT 2022 | On-site  
->- Developed mobile-first screens to manage stock, order picking, and warehouse transfers  
->- Translated manual logistics processes into efficient digital workflows  
->- Implemented Clean Architecture and BLoC for maintainable and testable code  
->- Integrated REST APIs for real-time inventory and order updates  
->- Used Hive for offline caching of warehouse data    
->- Participated in version control using Git 
+---
 
->### 🚙 Renault Brazil
->### OCT 2021 - APR 2022 | Ayrton Senna Complex, São José dos Pinhais, Brazil
->At Renault, I developed applications as a final part of projects focused on production line cars. Working individually, I learned to use BLoC as a design pattern in addition to state management, Firebase Auth API consumption, HTTP requests for database operations and also the prototyping and code development of the application screens.
+## 📄 Currículo
 
->### 🧑‍🤝‍🧑 Startup
->#### JAN 2021 - NOV 2022 | BuffSpot
->As it is a two-member startup, I participated in the entire idea development process, from the ideation of the business, conversations with external stakeholders, code development to the company's marketing. During the process, I learned how to create and design an idea based on agile development concepts with a focus on MVP. Methodologies such as Scrum, Sprint and Kanban were used to organize the workflow
+Você pode baixar meu currículo [clicando aqui](#) 
 
-### Skills
-  
-| **General Coding Skills**        | **Dart/Flutter Skills**         | **Complementary Skills**       | **Soft Skills**                        |
-|----------------------------------|---------------------------------|--------------------------------|----------------------------------------|
-| Object-Oriented Programming      | BLoC & Cubit State Management   | Figma                          | Empathy                                |
-| Clean Architecture               | REST API Consumption            | Git & GitHub                   | Critical Thinking                      |
-| MVVM Architecture                | JSON Parsing & Serialization    | Agile (Scrum, Kanban)          | Fast Learner                           |
-| Unit Testing (features & UI)     | Hive (Offline Caching)          | CI/CD (Basic Understanding)    | Adaptability in Different Scenarios    |
-| Integration with external APIs   | Dio (HTTP Client)               | Firebase                       | Problem Solving                        |
-| SOLID Principles                 | Routing (Navigator 2.0)         | Clear Communication            | Team Collaboration                     |
-| Version Control (Git)            | Custom Widgets & Animations     | Conflict Management            |                                        |
-| Debugging & Code Optimization    | Internationalization (l10n)     |                                |                                        |
+---
 
+## 💼 Experiência Profissional
 
-### Education
->### Control and Automation Engineering
->#### FEB 2017 - JUL 2023 | PUCPR Curitiba, Brazil
->My focus in control and automation engineering has always been the scope of software development, here I mainly learned about some software engineering principles, imperative and object-oriented programming, data structure, SQL databases and distributed systems (besides of course a lot engineering calculation).
+### 🧑‍💻 Flutter Developer — **Indaband**  
+📍 *Remoto — Outubro/2022 até Abril/2025*
 
-</details>
-  
-## 🎵 Profissional projects
-<details>
-    
-<summary>See more about Indaband</summary>
-<br/>
+> 🎸 App de colaboração musical com +800 mil usuários
 
-#### Circles and Feed
+**Impacto e Responsabilidades:**
+- 🔁 Virei a métrica de churn: de **-6%/mês para +10% de crescimento mensal**
+- Desenvolvi todo o app mobile com **Clean Architecture**, **BLoC**, **Hive** e **REST APIs**
+- Escrevi testes unitários para lógica de negócios e camada de UI
+- Desenvolvi features como:
+  - **Circles** (comunidades orgânicas)
+  - **Quick Peek** (preview de 15s no feed)
+  - **Monetização** com múltiplas formas de recarga
 
-- **Circles** is a feature focused on creating organic communities.  
-- In the **Feed**, users can interact with other artists and apply two filters: **Shuffle** and **Hide viewed sessions**.  
-- It also includes the **Quick Peek** feature, where the feed displays a 15-second preview centered in the middle of the video, allowing for faster content discovery.
+**Stack usada:** Flutter, BLoC, Hive, Dio, Firebase, Figma, Unit Tests
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/59a63b7a-ce7a-4523-8c43-a971547be4d8" width="30%" alt="GIF 1"/>
-</p>
+---
 
-#### Collections
+### 🤖 Flutter Developer — **Maritaca AI**  
+📍 *Remoto — Abril/2025 até o presente*
 
-- **Collections** is a feature that allows users to filter sessions (videos) through two main tabs: **Posts/Reposts** and **Playlists**.  
-- In the **Posts/Reposts** tab, users can refine the view using sub-filters: **All**, **Posts**, and **Reposts**.  
-- In the **Playlists** tab, it’s possible to manage and organize sessions by adding new ones to custom playlists.
+> 💡 Startup brasileira de referência em LLMs para português, criadora do Sabiá‑3, modelo que se iguala a LLMs de ponta em benchmarks nacionais (ENEM, ENADE, OAB, Revalida etc.) com custo por token até 3x menor, além de presença ativa em AWS Marketplace e iniciativas acadêmicas.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6841dd-98e3-4c29-a6ea-d651b6cb394f" width="30%" alt="GIF 2"/>
-</p>
+**Impacto e Responsabilidades:**
+- Desenvolvi o app mobile em Flutter com Clean Architecture, integrando com a API do *MariTalk/Sabiá‑3*
+- Implementei **streaming de mensagens via SSE**, renderização de conteúdo em **Markdown, LaTeX e código**
+- Gerenciei autenticação (Auth0), histórico de conversas e seleção entre múltiplos modelos (Sabiá‑2, 3 e outros)
+- Contribuí no design da UI/UX focada em fluidez, acessibilidade e performance
+- Preparei o app para publicação em Android e iOS, alinhando requisitos técnicos e compliance com lojas
 
-#### Monetization
+**Stack usada:** Flutter, BLoC, Clean Architecture, Auth0, SSE, Markdown + LaTeX rendering, Dio, Firebase, testes unitários
 
-- This feature starts with a **bottom sheet** displaying the user's current balance along with **eight different transfer options**.
-- If the user wishes to top up, there's a dedicated **Recharge** button.
-- By tapping it, the user is redirected to a screen with multiple **recharge methods**, making it easy to add credits to their account.
+#### 🎯 Métricas e Reconhecimento da Maritaca AI:
+- **Sabiá‑3** alcançou desempenho **equivalente a LLMs como GPT‑4o** em 52 exames nacionais e teve melhoria de custo/benefício de 3 vezes
+- **Sabiá‑2 Medium** superou GPT‑4 em 23 de 64 exames e GPT‑3.5 em 58 de 64, com preço por token até **10× mais barato**.
+- Em benchmarks jurídicos, o modelo especializado *Juru* (baseado em Sabiá‑2) aumentou em cerca de **6 pontos percentuais** a acurácia em provas da OAB e ENADE‑Direito.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1076974a-3b81-41ea-923c-b555563cbe45" width="30%" alt="GIF 1"/>
-</p>
-  
-#### 📊 Project Impact and Tech Stack
+---
 
-- 📈 The app reached **over 800,000 registered users**.
-- 🔁 **User retention saw a major turnaround** — instead of **losing 6% of users per month**, the app now **gains 10% new users monthly** after the launch of key features such as **Circles**, **Quick Peek**, and **Monetization**.
+### 📦 Flutter Developer — **Smart Go WMS**  
+📍 *Presencial — Abril/2022 até Outubro/2022*
 
-**Technologies & Tools Used:**
-- 💙 Flutter (Android & iOS)
-- 🧠 BLoC for state management
-- 🧱 Clean Architecture (UI → BLoC → Usecases → Repository)
-- 🌐 REST API integration (Dio)
-- 🧪 Unit tests for business logic and UI
-- 🧰 Hive for local storage
+- Desenvolvi telas mobile-first para controle de estoque e movimentações de armazém
+- Apliquei Clean Architecture + BLoC para código escalável e testável
+- Integrei APIs REST com dados em tempo real
+- Usei Hive para cache offline
 
-</details>
+---
 
-## 🧔 Personal Projects
-<details>
-    
-<summary>See more about Personal Projects</summary>
-<br/>
-     
-### 🏋️‍♂️ Fit Track - Gym training companion ([GitHub](https://github.com/Bruno-Klemz/FitTrack))
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7ad07c0c-5e59-4e72-b75d-39f46534a5fb" 
-     width="250" 
-     height="527.778" >
-  </p>
-<br/>
+## 🧠 Habilidades
 
-### Resume
+| **Geral**                       | **Flutter/Dart**                   | **Complementares**         | **Soft Skills**                   |
+|--------------------------------|------------------------------------|-----------------------------|----------------------------------|
+| OOP & SOLID                    | BLoC / Cubit                       | Git & GitHub                | Comunicação clara                |
+| Clean & MVVM Architecture      | Dio, REST APIs                     | Figma                       | Resolução de problemas           |
+| Testes unitários (lógica e UI) | Hive (cache offline)               | Firebase                    | Raciocínio crítico                |
+| Integração com APIs externas   | Navegação (Navigator 2.0)          | CI/CD (básico)              | Trabalho em equipe               |
+| Otimização e debug             | Widgets customizados & animações  | Internacionalização (l10n)  | Facilidade de adaptação          |
 
-**Fit Track** is a Flutter-based mobile application designed to assist users in organizing their workout and diet routines. The app delivers personalized training recommendations by integrating with the **Wger API**, providing relevant exercises based on user preferences such as time availability, difficulty level, and fitness goals.
+---
 
-### 🔍 Key Features
-- 🎯 **Personalized Workout Plans**  
-  Users receive dynamic exercise suggestions using filters like body focus, duration, difficulty, and available equipment.
+## 🎓 Formação Acadêmica
 
-- 📂 **Offline Caching**  
-  Exercises are cached locally using **Hive**, improving performance and accessibility without internet connection.
+### 🎓 Engenharia de Controle e Automação  
+📍 *PUC-PR — Fevereiro/2017 até Julho/2023*
 
-- ✅ **Daily Training Flow**  
-  A clean and responsive interface where users can check off completed exercises using a compact "Done" button.
+Foco em fundamentos de desenvolvimento de software:  
+- Programação orientada a objetos e imperativa  
+- Estruturas de dados, sistemas distribuídos  
+- Bancos de dados relacionais (SQL)
 
-- 🎨 **Modern UI**  
-  Thoughtfully designed interface using Flutter’s theming system with clean typography (`labelMedium`, `bodyLarge`, etc.), badges for equipment tags, and animated expandable tiles for each exercise.
+---
 
-- 🌐 **Wger API Integration**  
-  Exercises, muscle groups, categories, and translations are all fetched from the Wger API with support for language selection.
+## 🎵 Projeto Profissional em Destaque: Indaband
 
-### ⚙️ Technologies Used
+### Funcionalidades
 
+#### 🎯 Circles e Feed
+- Criação de comunidades orgânicas
+- Feed com filtros "Shuffle" e "Hide viewed sessions"
+- Prévia de 15s no centro do vídeo com **Quick Peek**
+
+#### 📁 Collections
+- Tabs: **Posts/Reposts** e **Playlists**
+- Subfiltros e playlists customizadas
+
+#### 💸 Monetização
+- Bottom sheet com saldo + 8 opções de transferência
+- Recarga via tela dedicada com múltiplos métodos
+
+### 📊 Impacto
+- +800 mil usuários registrados
+- Crescimento mensal de 10% após novas features (antes: -6%)
+
+### 🛠️ Tech Stack
+- Flutter (Android & iOS)
+- BLoC + Clean Architecture
+- Hive (offline)
+- REST API com Dio
+- Testes unitários
+- Firebase
+
+---
+
+## 🧔 Projeto Pessoal: Fit Track – Gym Training Companion
+
+[🔗 Repositório GitHub](https://github.com/Bruno-Klemz/FitTrack)
+
+### 📱 Sobre o App
+Aplicativo Flutter para organizar treinos e dieta com integração à **Wger API**.
+
+### 🔍 Funcionalidades
+- **Planos de treino personalizados** com filtros
+- **Cache offline** com Hive
+- **Fluxo diário de treino** com UI responsiva
+- **Interface moderna** com animações e tags
+- **Suporte a internacionalização**
+
+### 🧰 Stack
 - Flutter + Dart
-- Hive for local storage
-- Dio for HTTP requests
-- BLoC for state management
-- Clean Architecture structure
-- Integration with Wger REST API
-- Dependency injection
- 
-### Personal development
-## 🌱 Personal Development
+- Hive
+- Dio (HTTP)
+- BLoC + Clean Architecture
+- Wger API
+- Injeção de dependência
 
-Working on the **Fit Track** project has significantly contributed to my personal and professional growth. Throughout the development process, I had the opportunity to deepen my expertise in Flutter and architectural patterns such as Clean Architecture and BLoC. This experience helped me structure scalable and maintainable code while also reinforcing good practices in modularization and state management.
+### 🚀 Aprendizados
+- Consolidação de Clean Architecture e BLoC
+- Integração dinâmica com APIs RESTful
+- Modularização e boas práticas de UI/UX
+- Projeto completo feito 100% de forma autônoma
 
-Moreover, I improved my ability to integrate and consume external RESTful APIs, particularly through the dynamic use of the Wger API. This sharpened my skills in filtering, parsing, and handling asynchronous data, as well as managing localized content using translation support.
+---
 
-Lastly, the project enhanced my self-discipline and problem-solving skills, as I worked independently to build and refine all major features—from backend logic to frontend animations. It was a valuable journey of continuous learning, technical refinement, and creative exploration.
-
-</details>
+> Obrigado por visitar meu portfólio! Fique à vontade para entrar em contato ou explorar meus repositórios no GitHub. 🚀
